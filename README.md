@@ -1,6 +1,7 @@
 # Michigan Daily Projects
 
 A collection of projects I've worked on at the Michigan Daily :)
+Check out https://michigandaily.github.io/ for a full list of projects from the web team
 
 ## Love in Color 2026
 https://mic.michigandaily.com/2026/love-in-color/
