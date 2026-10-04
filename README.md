@@ -16,5 +16,8 @@ https://specials.michigandaily.com/2026/softballfirstpitch/
 ## CSG Map
 https://specials.michigandaily.com/2025/student-governments-map/
 
+## Best of Ann Arbor Vote
+https://specials.michigandaily.com/2026/best-of-ann-arbor/voting/
+
 ## Hockey Faceoff 2026
 https://specials.michigandaily.com/2026/hockeyfaceoff/
